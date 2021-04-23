@@ -1,15 +1,12 @@
 {
-    "name": "com.unity.example",
-    "version": "0.0.0",
-    "displayName": "DisplayName",
-    "description": "description",
+    "name": "net.abrusle.unity-scriptable.dictionary",
+    "version": "0.0.1",
+    "displayName": "Scriptable Dictionary",
+    "description": "Dictionaries as ScriptableObjects",
     "unity": "2019.1",
-    "dependencies": {
-        "com.unity.other-package": "1.0.0"
-    },
     "author": {
-        "name": "AuthorName",
-        "email": "autor@email.com",
-        "url": "https://docs.unity3d.com/Manual/cus-layout.html"
+        "name": "Abrusle",
+        "email": "public.abrusle@email.com",
+        "url": "https://github.com/abrusle/unity-scriptable-dictionary"
     }
 }

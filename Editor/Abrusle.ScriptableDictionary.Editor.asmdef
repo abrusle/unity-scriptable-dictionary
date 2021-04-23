@@ -1,7 +1,11 @@
 {
-    "name": "Unity.ExamplePackage",
-    "references": [],
-    "includePlatforms": [],
+    "name": "Abrusle.ScriptableDictionary.Editor",
+    "references": [
+        "Abrusle.ScriptableDictionary"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
