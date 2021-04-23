@@ -10,7 +10,7 @@ namespace ScriptableDictionaries.Example
 
     internal enum SpellType
     {
-        Water, Fire, Aire, Earth
+        Water, Fire, Air, Earth
     }
 
     [System.Serializable]
