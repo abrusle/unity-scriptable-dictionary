@@ -1,0 +1,15 @@
+{
+    "name": "com.unity.example",
+    "version": "0.0.0",
+    "displayName": "DisplayName",
+    "description": "description",
+    "unity": "2019.1",
+    "dependencies": {
+        "com.unity.other-package": "1.0.0"
+    },
+    "author": {
+        "name": "AuthorName",
+        "email": "autor@email.com",
+        "url": "https://docs.unity3d.com/Manual/cus-layout.html"
+    }
+}
