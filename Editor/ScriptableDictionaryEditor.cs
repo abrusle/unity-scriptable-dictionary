@@ -1,10 +1,9 @@
-﻿using System;
+﻿using ScriptableDictionaries.Internal;
 using UnityEditor;
 using UnityEngine;
-using UnityEngine.UI;
 using static UnityEditor.EditorGUILayout;
 
-namespace Wizz.Data
+namespace ScriptableDictionaries.Editor
 {
     [CustomEditor(typeof(ScriptableDictionaryBase), true)]
     public class ScriptableDictionaryEditor : UnityEditor.Editor
